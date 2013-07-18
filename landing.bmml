@@ -1,0 +1,90 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1083" measuredH="607" mockupW="952" mockupH="603">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="194" y="4" w="889" h="603" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>www..codefirst.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::HRule" x="200" y="114" w="877" h="-1" measuredW="100" measuredH="10" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties/>
+    </control>
+    <control controlID="146" controlTypeID="com.balsamiq.mockups::Button" x="583" y="476" w="-1" h="-1" measuredW="93" measuredH="40" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>32</size>
+        <text>Yes%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="148" controlTypeID="com.balsamiq.mockups::LinkBar" x="533" y="85" w="-1" h="-1" measuredW="195" measuredH="22" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>3480693</color>
+        <size>16</size>
+        <text>Who%2C%20What%2C%20Why%2C%20When</text>
+      </controlProperties>
+    </control>
+    <control controlID="149" controlTypeID="com.balsamiq.mockups::SubTitle" x="216" y="87" w="-1" h="-1" measuredW="106" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>CodeFirst</text>
+      </controlProperties>
+    </control>
+    <control controlID="152" controlTypeID="com.balsamiq.mockups::Image" x="200" y="79" w="877" h="505" measuredW="1430" measuredH="1108" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./campus.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="155" controlTypeID="com.balsamiq.mockups::Icon" x="977" y="83" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>FacebookIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="157" controlTypeID="com.balsamiq.mockups::Icon" x="1016" y="83" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>TwitterIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="158" controlTypeID="com.balsamiq.mockups::TextArea" x="200" y="202" w="707" h="79" measuredW="200" measuredH="140" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="159" controlTypeID="com.balsamiq.mockups::Title" x="131" y="210" w="737" h="-1" measuredW="577" measuredH="63" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>60</size>
+        <text>Do%20you%20want%20to%20learn%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="160" controlTypeID="com.balsamiq.mockups::TextArea" x="200" y="281" w="351" h="78" measuredW="200" measuredH="140" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="162" controlTypeID="com.balsamiq.mockups::Title" x="213" y="299" w="515" h="-1" measuredW="218" measuredH="43" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <size>40</size>
+        <text>How%20to%20build</text>
+      </controlProperties>
+    </control>
+    <control controlID="163" controlTypeID="com.balsamiq.mockups::TextArea" x="200" y="359" w="283" h="78" measuredW="200" measuredH="140" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="164" controlTypeID="com.balsamiq.mockups::Title" x="209" y="377" w="515" h="-1" measuredW="267" measuredH="43" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <size>40</size>
+        <text>Your%20own%20app%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="165" controlTypeID="com.balsamiq.mockups::Icon" x="614" y="516" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <icon>DownFillTriangleIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
