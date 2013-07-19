@@ -1,12 +1,42 @@
+
+<!DOCTYPE html>
 <html>
-    <head>
-        <title>Form</title>
-        <link rel="stylesheet" type="text/css" href= "sheet.css"/> 
-    </head>
-    <body>
-        <h1>
+<head>
+    <title>Form</title>
+    <link rel="stylesheet" type="text/css" href= "sheet.css"/> 
+    <link rel='stylesheet' href='bootstrap/css/bootstrap.css'>
+</head>
+
+<body>
+    <div class='container'>
+
+        <h1>A basic form <br>
               <a href = "index.html "><--Back</a>
               <br> Form Page
         </h1>
-    </body>
-</html>git 
+
+            <script type="text/javascript">var submitted=false;</script>
+            <iframe name="hidden_iframe" id="hidden_iframe"
+            style="display:none;" onload="if(submitted)
+            {window.location= 'thanks.html';}"></iframe>
+
+            <form action="https://docs.google.com/forms/d/1IUNjqsrxhmJ_dyJf1E1rugyD6c1kjUTQ7b3f0nCy1z8/formResponse" method="post"
+            target="hidden_iframe" onsubmit="submitted=true;">
+
+            <label>First Name</label>
+            <input type="text" name='entry_625795089'>
+
+            <label>Last Name</label>
+            <input type="text" name='entry_1991242219'>
+
+            <label>E-mail address</label>
+            <input type="text" name='entry_36383338'>
+
+            <br>
+            <input  type="submit" name="submit" value="Submit">
+        </form>
+
+    </div>
+
+</body>
+</html>
