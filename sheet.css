@@ -57,6 +57,11 @@ div.title2 {
 
 }
 
+
+div.span11 {
+  margin-left: 40px;
+}
+
 div.span12 {
   margin: 20px;
   padding-left: 10%;
@@ -170,6 +175,12 @@ input[type="color"],
   background-image: -o-linear-gradient(top, #7f003f, #7f003f);
   background-image: linear-gradient(top, #7f003f, #7f003f);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#'7f003f, endColorstr='#'7f003f, GradientType=0);
+  border:none !important;
+  box-shadow:none !important;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#'680133, endColorstr='#'930047, GradientType=0);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
 }
 
 .btn-primary:hover,
