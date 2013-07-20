@@ -1,11 +1,11 @@
 
-html, body {
+body {
   margin: 0;
   width: 100%;
   font-family: 'Open Sans';
   font-size: 13px;
-  color: #666164;
-
+  color: #3E3E3E;
+  background-color: #CFCFCF !important;
 
 }
 
@@ -62,8 +62,6 @@ div.span12 {
   padding-left: 10%;
   font-size: 3em;
 }
-
-
 
 
 a {
