@@ -1,6 +1,6 @@
 
 body {
-  margin: 0;
+  margin-left: 0;
   width: 100%;
   font-family: 'Open Sans';
   font-size: 13px;
@@ -17,11 +17,11 @@ body {
 }
 
 
-div.home {
+.section1 {
   padding-left: 0;
   margin-top: -19px;
   width: 100%;
-  height:490px;
+  height: 600px;
   background: url('pics/student.jpg');
   background-repeat: no-repeat no-repeat;
   -webkit-background-size: cover;
@@ -31,8 +31,9 @@ div.home {
   background-position: center;
 }
 
+/* .home h1 {} h1 class specific to the parent container*/ 
 
-div.title {
+.title {
   margin: 0;
   padding: 2%;
   position: relative;
@@ -41,32 +42,114 @@ div.title {
   background-color: rgba(255, 255, 255, 0.5);
   font-size: 4em;
 
-
 }
 
 
-div.title2 {
+.title2 {
   margin: 0;
   padding: 2%;
   background-color: rgba(255, 255, 255, 0.5);
   position: relative;
   float:left;
-  clear: both;
   top: 210px;
   font-size: 2em;
 
 }
 
 
-div.span11 {
+/* Bootstrap div */
+
+.span11 {
   margin-left: 40px;
 }
 
-div.span12 {
-  margin: 20px;
-  padding-left: 10%;
+.span12 {
+  margin-top: 20px;
+  padding-top: 30px;
   font-size: 3em;
+  line-height: 20px;
 }
+
+.span4 {
+  margin-top: 30px;
+  height: 200px;
+  width: 100px;
+  border-radius: 10px;
+  background-color: #BDC3C7;
+  text-align: center;
+
+}
+
+.span4 h1 {
+  font-family: 'Graduate';
+  font-size: 2.5em;
+  line-height: 60px;
+}
+
+
+/* Second half of page */
+
+
+.section2 {
+  margin-top: 0;
+  padding-top: 20px;
+  margin-left: 0;
+  width: 100%;
+  height: 100px;
+  background-color: #CFCFCF;
+  font-size: 22px;
+  line-height: 40px;
+  padding-bottom: 40px;
+
+
+}
+
+
+.section3 {
+  margin-left: -150px;
+  margin-right: 0px;
+  margin-top: 1%;
+  width: 200%;
+  height: 60px;
+  background-color: #77113c;
+
+}
+
+.section4 {
+ width: 100%;
+ height: 200px;
+ background-color: #CFCFCF;
+ font-size: 2em;
+ padding-top: 20px;
+ padding-left: 50px;
+
+}
+
+
+.line {
+  padding-top: 8px;
+  width: 100%;
+  height: 5px;
+  background-color: #A0CFE6;
+
+}
+
+#text {
+
+  margin-left: 5%;
+  margin-top: 20px;
+  font-size: 40px;
+  color: #FFFFFF;
+}
+
+/*.img-rounded {
+width: 50%;
+border-radius: 10px;
+float: left;
+
+} */
+
+
 
 
 a {
@@ -77,17 +160,13 @@ p {
   font-size: 16px;
 }
 
-h
-{
-font-size: 1.6em;
-color: #77113c;
-font-family: 'Graduate';
-}
+
 
 h1 {
 color: #77113c;
-font-family: Graduate;
+font-family: 'Graduate';
 font-size: 1.5em;
+line-height: 70px;
 
 }
 h2,
@@ -150,7 +229,7 @@ input[type="color"],
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#'680133, endColorstr='#'930047, GradientType=0);
   -webkit-border-radius: 20px;
   -moz-border-radius: 20px;
-  border-radius: 20px;
+  border-radius: 10px;
 
 }
 
@@ -180,7 +259,7 @@ input[type="color"],
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#'680133, endColorstr='#'930047, GradientType=0);
   -webkit-border-radius: 20px;
   -moz-border-radius: 20px;
-  border-radius: 20px;
+  border-radius: 15px;
 }
 
 .btn-primary:hover,
