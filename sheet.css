@@ -176,6 +176,18 @@ body {
 }
 
 
+.title3 {
+  margin: 0;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  position: relative;
+  top: 300px;
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.5);
+  font-size: 3em;
+
+}
+
 
 /* Horizontal bar 
 
