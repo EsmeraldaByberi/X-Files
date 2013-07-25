@@ -1,1 +1,26 @@
+<<<<<<< HEAD
 .DS_Store
+=======
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+>>>>>>> f32a7da69f4565991c825e249601116c1a6ced6a
