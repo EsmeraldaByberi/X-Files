@@ -15,6 +15,17 @@ body {
     width: 100%;
 }
 
+.social > li{
+  float:right;
+  height:30px;
+  width: 30px;
+  padding-left:10px;
+  padding-top:5px;
+  padding-right: 10px;
+  list-style-type: none;
+  display:inline;
+}
+
 
 .section1 {
   padding-left: 0;
