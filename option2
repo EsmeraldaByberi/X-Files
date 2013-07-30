@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-	<meta charset="UTF-8">
+  <meta charset="UTF-8">
 
     <link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
     <link href='http://fonts.googleapis.com/css?family=Graduate' rel='stylesheet' type='text/css'>
@@ -10,7 +10,7 @@
     <link rel="stylesheet" type="text/css" href= "CSS/css/bootstrap.min.css"/>
     <link rel="stylesheet" type="text/css" href= "sheet.css"/> 
     
-    <title>Welcome to Code First!!</title>  
+    <title>Welcome to Code First!</title>  
 </head>
 
 
@@ -32,9 +32,8 @@
 
 <!-- The background photo, including the 2 titles -->
 <div class="section1">
-  <div class="title0"> <h1>Become the next tech entrepreneur?</h1></div>
   <div class="title">  <h1>Learn how to Code First! <br></h1></div>
-  
+    <div class="title0"> <h1>Become the next tech entrepreneur?</h1></div>
     <div class="title2"><h1> In 007 weeks</h1></div>
     <div class="clearfix"></div>
  </div>
@@ -50,7 +49,7 @@
 <!-- <div class="img">  <img src="pics/image2.jpg" class="img-rounded"></div> --> 
 
   <div class="section2">
-  Code First is the free programming course for driven and creative students. Because learning how to code is not rocket science... We help you get started!
+  Free programming course for driven and creative students. Because learning how to code is not rocket science... it's just a matter of practice! We help you get started.
 
   </div>
 
@@ -58,30 +57,16 @@
 
 
 <div class="section3">
-  <div class="line"></div>
+  
+<div class="line"></div>
 </div>
-
-
-<div class="section4">
 
 <div class="row-fluid">
-
-
-  <div class="span4"> <h1>UNDERSTAND</h1>
-     <div class="text">... How it works. HTML/CSS, Ruby, github collaboration... speak the language of your tech peers!</div></div>
-
-  <div class="span4"><h1>BUILD</h1>
-      <div class="text">.... Cool websites and simple apps. Your ideas now take shape on the web. Express yourself!</div>
-    </div>
-  <div class="span4"><h1>START UP</h1>
-    <div class="text">... Your business! Coding can be a real stepping stone to tech entrepreneurship. </div></div>
+  <div class="span4"> <h1>CODE</h1></div>
+  <div class="span4"><h1>BUILD WEBSITES</h1></div>
+  <div class="span4"><h1>START UP</h1></div>
 </div>
 
-</div>
-
-<div class="section5">
-
-</div>
 
 </body>
 </html>
