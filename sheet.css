@@ -25,7 +25,7 @@ body {
 }
 
 .social > li{
-  float:right;
+  float:right !important;
   height:30px;
   width: 30px;
   padding-left:10px;
