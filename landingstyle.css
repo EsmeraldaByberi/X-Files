@@ -1,15 +1,15 @@
-
 body {
+  margin-left: 0;
   width: 100%;
   font-family: 'Open Sans';
   font-size: 13px;
-  color: #3E3E3E;
-  background-color: #F9FFFF !important;
+  color: #;
+  background-color: #CFCFCF !important;
 
 }
 
 .navbar .nav > li > a {
-  padding: 10px !important;
+  padding: 20px !important;
 }
 
 
@@ -24,22 +24,12 @@ body {
 
 }
 
-.social > li{
-  float:right !important;
-  height:30px;
-  width: 30px;
-  padding-left:10px;
-  padding-top:5px;
-  padding-right: 10px;
-  list-style-type: none;
-  display:inline;
-}
-
 
 .section1 {
   padding-left: 0;
   margin-top: -19px;
-  height: 600px;
+  width: 100%;
+  height: 800px;
   background: url('background.jpg');
   background-repeat: no-repeat no-repeat;
   -webkit-background-size: cover;
@@ -56,32 +46,32 @@ body {
 
 
 .title0 {
-  margin: 0;
-  padding: 1%;
-  position: relative;
-  top: 20px;
-  width: 100%;
-  background-color: rgba(200, 200, 200, 0.6);
-  font-size: 1.8em;
+  margin: 5;
+  padding: 2%;
+  position: center;
+  top: 150px;
+  width: 80%;
+  background-color: rgba(200, 200, 200, 0.7);
+  font-size: 2.5em;
 }
 
 .title {
-  margin: 0;
-  padding-top: 1%;
-  padding-bottom: 1%;
-  padding-left: 10px;
-  position: absolute;
-  top: 400px;
-  width: 100%;
+  margin: 6;
+  padding: 2%;
+  position: relative;
+  top: 200px;
+  width: 80%;
   background-color: rgba(255, 255, 255, 0.5);
-  font-size: 3em;}
+  font-size: 4em;}
+
 
 
 
 .title2 {
   margin: 0;
-  background-color: rgba(255, 255, 255, 0.5);
-  position: relative;
+  padding: 2%;
+  background-color: rgba(255, 255, 255, 0.6);
+  position: center; 
   float:left;
   top: 200px;
   font-size: 2.5em;
@@ -104,27 +94,19 @@ body {
 
 .span4 {
   margin-top: 30px;
-  height: 170px;
+  height: 200px;
   width: 100px;
   border-radius: 10px;
-  background-color: #BCDDEE;
+  background-color: #BDC3C7;
   text-align: center;
-
-}
-
-.text {
-  font-size: 18px;
-  padding: 3%;
-  text-align: left;
 
 }
 
 .span4 h1 {
   font-family: 'Graduate';
-  font-size: 2em;
+  font-size: 2.5em;
   line-height: 60px;
 }
-
 
 
 /* Second half of page */
@@ -136,7 +118,7 @@ body {
   margin-left: 0;
   width: 100%;
   height: 100px;
-  background-color: #F9FFFF;
+  background-color: #CFCFCF;
   font-size: 22px;
   line-height: 40px;
   padding-bottom: 40px;
@@ -145,54 +127,32 @@ body {
 }
 
 
-.line {
-  margin-top: 1px;
-  padding-top: 8px;
-  width: 100%;
-  height: 10px;
-  background-color: #A0CFE6;
-
-}
 .section3 {
-  margin-left: 0;
+  margin-left: -150px;
   margin-right: 0px;
   margin-top: 1%;
-  width: 100%;
+  width: 200%;
   height: 60px;
   background-color: #77113c;
 
 }
 
-/*
-
-.img {
-  width: 100%;
-  height: 100%;
-  background: url('pics/image2.jpg');
-  background-repeat: no-repeat no-repeat;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  background-position: center;
-} */
-
-
-
-
 .section4 {
  width: 100%;
- height: 800px;
-  background: url('Pics/image2.jpg');
-  background-repeat: no-repeat no-repeat;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  background-position: center;
+ height: 200px;
+ background-color: #CFCFCF;
  font-size: 2em;
-  padding-top: 20px;
- padding-left: 0px;
+ padding-top: 20px;
+ padding-left: 50px;
+
+}
+
+
+.line {
+  padding-top: 8px;
+  width: 100%;
+  height: 5px;
+  background-color: #A0CFE6;
 
 }
 
@@ -202,43 +162,9 @@ body {
   margin-top: 20px;
   font-size: 40px;
   color: #FFFFFF;
-  line-height: 40px;
 }
 
-.section5 {
- width: 100%;
- height: 300px;
- padding-left: 20px;
- margin-top: 55%;
- background-color: rgba(255, 255, 255, 0.5);}
-
-
-.title3 {
-  margin: 0;
-  padding-top: 2%;
-  padding-bottom: 2%;
-  position: relative;
-  top: 300px;
-  width: 100%;
-  background-color: rgba(255, 255, 255, 0.5);
-  font-size: 3em;
-
-}
-
-
-/* Horizontal bar 
-
-.line2 {
-  margin-top: 30px;
-  padding-top: 5px;
-  width: 30%;
-  height: 2px;
-  background-color: #77113c;
-  border-radius: 5px; */
-
-
-
-/*.img-rounded 
+/*.img-rounded {
 width: 50%;
 border-radius: 10px;
 float: left;
