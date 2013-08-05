@@ -249,14 +249,6 @@ margin-left: 80px;
  height: 700px;
  padding-left: 20px;
  margin-top: 0%;
- background-color: #BCDDEE;
-}
-
-.section9{
- width: 100%;
- height: 700px;
- padding-left: 20px;
- margin-top: 0%;
 background: url('Pics/level39.jpg');
   background-repeat: no-repeat no-repeat;
   -webkit-background-size: cover;
@@ -265,13 +257,40 @@ background: url('Pics/level39.jpg');
   background-size: cover;
   background-position: center;
 }
+.section9{
+ width: 100%;
+ height: 700px;
+ padding-left: 20px;
+ margin-top: 0%;
+ background-color: #BCDDEE;
+}
 
 .liner {
   width: 100%;
   margin-left: -20px;
-  height: 15px;
+  height: 50px;
   background-color: rgba(255, 255, 255, 0.5);
 }
+
+.team_table {
+border-width: 2px;
+border-color: black;
+padding-left:100px;
+
+  width: 60%;
+  margin-top: 50px;
+  height: 150px;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.table_img {
+width:190px;
+height: 180px;
+margin-top: 20px;
+margin-left: 20px;
+
+}
+
 .title3 {
   margin: 0;
   padding-top: 2%;
