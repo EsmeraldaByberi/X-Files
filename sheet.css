@@ -248,8 +248,22 @@ margin-left: 80px;
  width: 100%;
  height: 700px;
  padding-left: 20px;
- margin-top: 5%;
+ margin-top: 0%;
  background-color: #BCDDEE;
+}
+
+.section9{
+ width: 100%;
+ height: 700px;
+ padding-left: 20px;
+ margin-top: 0%;
+background: url('Pics/level39.jpg');
+  background-repeat: no-repeat no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-position: center;
 }
 
 .liner {
